@@ -1,0 +1,27 @@
+[{"district":"Kathmandu"
+  ,"data":[
+    {"exchange":"Central","areacode":"01"}
+         ,{"exchange":"Chhauni","areacode":"01"}
+             ,{"exchange":"Balambu","areacode":"01"}
+             ,{"exchange":"Kritipur","areacode":"01"}
+             ,{"exchange":"Gongabu","areacode":"01"}
+             ,{"exchange":"Naxal","areacode":"01"}
+         ,{"exchange":"Indryani","areacode":"01"}
+         ,{"exchange":"Chabahil","areacode":"01"}
+         ,{"exchange":"Dakchhinkali","areacode":"01"}
+         ,{"exchange":"Ghattekulo","areacode":"01"}
+         ,{"exchange":"Babarmahal(TTC)","areacode":"01"}
+            ]}
+    ,{"district":""
+  ,"data":[
+    {"exchange":"","areacode":""}
+         ,{"exchange":"","areacode":""}
+
+            ]}
+    ,{"district":""
+  ,"data":[
+    {"exchange":"","areacode":""}
+         ,{"exchange":"","areacode":""}
+
+            ]}
+]
