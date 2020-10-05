@@ -12,13 +12,21 @@
          ,{"exchange":"Ghattekulo","areacode":"01"}
          ,{"exchange":"Babarmahal(TTC)","areacode":"01"}
             ]}
-    ,{"district":""
+    ,{"district":"Bhaktpur"
   ,"data":[
-    {"exchange":"","areacode":""}
-         ,{"exchange":"","areacode":""}
-
+    {"exchange":"Bhaktpur","areacode":"01"}
+         ,{"exchange":"Thimi","areacode":"01"}
+         ,{"exchange":"Nagarkot","areacode":"01"}
             ]}
-    ,{"district":""
+    ,{"district":"Lalitpur"
+  ,"data":[
+    {"exchange":"Patan","areacode":"01"}
+         ,{"exchange":"Thaiba","areacode":"01"}
+         ,{"exchange":"Thecho","areacode":"01"}
+             ,{"exchange":"Lubhu","areacode":"01"}
+             ,{"exchange":"Sanagaun","areacode":"01"}
+            ]}
+ ,{"district":""
   ,"data":[
     {"exchange":"","areacode":""}
          ,{"exchange":"","areacode":""}
