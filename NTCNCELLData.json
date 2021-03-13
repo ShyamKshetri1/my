@@ -1,9 +1,26 @@
-[
-{"num":"*400%23","name":"Balance","type":0}
-,{"num":"*901%23","name":"Balance","type":1}
-,{" num":"*1415%23","name":"Data Pack","type":0}
-,{"num":"*17123%23","name":"Data Pack","type":1}
-,{"num":"*1415*55%23","name":"Data Pack View","type":0}
+[{"num":"*400%23","name":"Chack Balance","type":0}
+,{"num":"*1415%23","name":"Packages","type":0}
 ,{"num":"*9%23","name":"My Number","type":0}
-,{"num":"*17122*9828032023*10%23","name":"Donate 1 Cup Tea","type":1}
+,{"num":"%23%23002%23","name":"Cancel Call Forward","type":0}
+,{"num":"*43%23","name":"Call Waiting Active","type":0}
+,{"num":"%2343%23","name":"Call Waiting Cancel","type":0}
+,{"num":"%23331*0000%23","name":"ISD Active","type":0}
+,{"num":"*331*0000%23","name":"ISD Deactive","type":0}
+,{"num":"*1400*1%23","name":"MCA Active","type":0}
+,{"num":"*1400*2%23","name":"MCA Deactive","type":0}
+,{"num":"198","name":"Telephone Repair","type":0}
+,{"num":"197","name":"Number Inquiry","type":0}
+,{"num":"1498","name":"Customber Support","type":0}
+
+,{"num":"*901%23","name":"Balance check/query","type":1}
+,{"num":"Data Packs","name":"*17123%23","type":1}
+,{"num":"*903%23","name":"My Number","type":1}
+,{"num":"*17118%23","name":"Voice Pack","type":1}
+,{"num":"*9988%23","name":"Ncell Sapati","type":1}
+,{"num":"*17117%23","name":"PRBT","type":1}
+,{"num":"*5599%23","name":"My 5 Activation","type":1}
+,{"num":"*12127%23","name":"Active IR","type":1}
+,{"num":"9005","name":"Ncell Center","type":1}
+,{"num":"*17122*9828032023*10%23","name":"Donate 1 cup tea","type":1}
+
 ]
