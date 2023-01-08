@@ -1,1 +1,1 @@
-[{"hello":"okay"}]
+document.getElementById('submit-file').outerHTML = document.getElementById('submit-file').outerHTML.replace('disabled=
