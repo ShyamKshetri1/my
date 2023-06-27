@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+	<script src="https://www.gstatic.com/firebasejs/4.7.0/firebase.js"></script>
+	<script>
+		var config =  {
+  apiKey: "AIzaSyDWqWVH-rfzpEYd3YtWLGs1i3S7JXm9mds",
+  authDomain: "panchakala-handicrafts.firebaseapp.com",
+  databaseURL: "https://panchakala-handicrafts-default-rtdb.firebaseio.com",
+  projectId: "panchakala-handicrafts",
+  storageBucket: "panchakala-handicrafts.appspot.com",
+  messagingSenderId: "467495307485",
+  appId: "1:966793948531:android:641c6eea7fa22eacee6906",
+    
+
+  };
+		firebase.initializeApp(config);
+		firebase.database().ref().child('products_db').on('value',function(orders){	
+			
+			orders.forEach(function(firebaseOrderReference){		
+				console.log(JSON.stringify(firebaseOrderReference));
+			});
+		});
+	</script>
+
+</body>
+
+</html>
