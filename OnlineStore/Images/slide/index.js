@@ -1,2 +1,4 @@
 
-console.log("hello_world");
+for(var i = 0; i<6; i++){
+console.log("banner"+i);
+}
