@@ -1,1 +1,30 @@
-my  FFF iitttsuuusuuuzzzzfJZZZI
+my  FFF var path = "indian_01/0.txt";
+function run(){ return fetch("https://api.github.com/repos/ShyamKshetri1/online_db/contents/"+path).then(res=>res.json());}
+run().then(res=>{
+function update() {
+  return fetch( `https://api.github.com/repos/ShyamKshetri1/online_db/contents/`+path,
+    {
+      method: "PUT",
+      headers: {
+        Accept: "application/vnd.github+json",
+        Authorization: `Bearer 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`
+      },
+      body: JSON.stringify({
+        woner: "ShyamKshetri1",
+        message: "upload from api",
+        content: "SGVsbG8gV29ybGQ=",
+        repo: "online_db",
+       user:"ShyamKumarKshetri0",
+   sha:res.sha
+      })
+    }
+  ).then((res) => res.json());
+}
+
+update().then(res => {
+      if (res.message) {
+        console.log(res.message);
+      } else {
+console.log('ur0l98u6oj'+res.content.html_url.replace('github.com','raw.githubusercontent.com').replace('/blob',''));
+}});
+});
