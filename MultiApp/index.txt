@@ -1,3 +1,10 @@
 facebook lite
 #youtube lite
 #translate lite
+#Icon Hider_1.0.0
+#Folder Server
+#music player
+#Notepad Pro_4.6.2
+#Okay Games
+#SO File Editor
+#Text Encoder_0.2
