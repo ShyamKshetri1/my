@@ -2,6 +2,6 @@
     "name":"update My App Name"
     ,"version":"1.0.0"
     ,"message":"your app is out of date\n\nplease update this app."
-    "appUrl":"https://app.download.url"
+    ,"appUrl":"https://app.download.url"
 
 }
